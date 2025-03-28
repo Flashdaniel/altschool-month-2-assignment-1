@@ -20,7 +20,7 @@ This is the finished design
 
 ### Links
 
-- Live Site URL: [url]()
+- Live Site URL: [url](https://flashdaniel.github.io/altschool-month-2-assignment-1/)
 
 ## My process
 
